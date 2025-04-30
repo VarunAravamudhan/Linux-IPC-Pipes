@@ -1,4 +1,4 @@
-# Linux-IPC--Pipes
+![Screenshot 2025-04-30 133125](https://github.com/user-attachments/assets/2bc4d773-55f9-478b-82c8-98d72e3a894a)# Linux-IPC--Pipes
 Linux-IPC-Pipes
 
 
@@ -104,7 +104,8 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
-![pipe](./img/ex3-pipe.png)
+![Screenshot 2025-04-30 133037](https://github.com/user-attachments/assets/4cfa1954-e85d-45d7-bb44-dd2f9e078667)
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```c#include <stdio.h>
@@ -198,8 +199,8 @@ void client() {
 
 
 
-## OUTPUT
-![fifo](./img/ex3-fifo.png)
+## OUTPUT:
+![Screenshot 2025-04-30 133125](https://github.com/user-attachments/assets/b64c4350-38ff-42d7-98ac-a59079206284)
 
 # RESULT:
 The program is executed successfully.
